@@ -41,16 +41,16 @@ en 5 fases.
 
 ## Estructura del repositorio
 
-docs/             Documentación técnica, decisiones, runbooks, troubleshooting
-notes/            Apuntes de estudio (LPIC, networking, etc.)
-hardware/         Inventario y planificación física
-networking/       Diagramas, plan de direccionamiento, configuraciones
-linux/            Configs, scripts, hardening
-virtualization/   Configs de Proxmox, plantillas de VMs
-docker/           docker-compose.yml de servicios
-ansible/          Playbooks (a partir de fase 4)
-monitoring/       Configuraciones de Prometheus, Grafana, logs
-security/         Baselines, políticas, hardening
+- docs/             Documentación técnica, decisiones, runbooks, troubleshooting
+- notes/            Apuntes de estudio (LPIC, networking, etc.)
+- hardware/         Inventario y planificación física
+- networking/       Diagramas, plan de direccionamiento, configuraciones
+- linux/            Configs, scripts, hardening
+- virtualization/   Configs de Proxmox, plantillas de VMs
+- docker/           docker-compose.yml de servicios
+- ansible/          Playbooks (a partir de fase 4)
+- monitoring/       Configuraciones de Prometheus, Grafana, logs
+- security/         Baselines, políticas, hardening
 
 ## Filosofía
 
