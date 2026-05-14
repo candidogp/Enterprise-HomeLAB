@@ -40,3 +40,35 @@ en 5 fases.
 | 5 | Mes 12 | Cloud básico + Portfolio + Búsqueda activa |
 
 ## Estructura del repositorio
+
+docs/             Documentación técnica, decisiones, runbooks, troubleshooting
+notes/            Apuntes de estudio (LPIC, networking, etc.)
+hardware/         Inventario y planificación física
+networking/       Diagramas, plan de direccionamiento, configuraciones
+linux/            Configs, scripts, hardening
+virtualization/   Configs de Proxmox, plantillas de VMs
+docker/           docker-compose.yml de servicios
+ansible/          Playbooks (a partir de fase 4)
+monitoring/       Configuraciones de Prometheus, Grafana, logs
+security/         Baselines, políticas, hardening
+
+## Filosofía
+
+1. **Enterprise mindset desde el día 1**: segmentación, nomenclatura, 
+   backups, documentación, seguridad.
+2. **Tecnología empresarial real**, no la última de moda.
+3. **Documentación en caliente**: si no está documentado, no existe.
+4. **No saltar fases**: cada capa se construye sobre una base sólida.
+5. **Cada fase produce un entregable** demostrable.
+
+## Sobre el autor
+
+[Tu nombre] — IT Support Specialist en transición hacia Systems 
+Administration. Tenerife, España.
+
+- LinkedIn: [URL]
+- Email: [opcional]
+
+## Licencia
+
+Documentación y configuraciones bajo licencia MIT. Ver [`LICENSE`](./LICENSE).
