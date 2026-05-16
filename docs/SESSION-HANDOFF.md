@@ -72,7 +72,7 @@ Cualquier cosa que impida avanzar:
 
 ## Tareas pendientes
 
-[] Documentar en docs/troubleshooting/ nota indicando que "Git: rama da  'not fully merged' tras Squash and merge"
+- [ ] Documentar en docs/troubleshooting/ nota indicando que "Git: rama da  'not fully merged' tras Squash and merge"
 
 ---
 
