@@ -19,7 +19,7 @@ tiene enlace a su documento en `hosts/`.
 | Garantía            | 2 años (hasta 2028-05-XX)                |
 | CPU                 | Intel Core i5-9500T (6C/6T, 35W TDP)     |
 | RAM                 | 16 GB DDR4 (ampliable a 64 GB)           |
-| Almacenamiento      | 256 GB SSD)                              |
+| Almacenamiento      | 256 GB SSD                               |
 | Red                 | 1× NIC Intel Gigabit (integrada)         |
 | Ficha detallada     | [hosts/pve-node01.md](hosts/pve-node01.md) |
 
