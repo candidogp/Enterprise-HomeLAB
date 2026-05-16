@@ -17,12 +17,25 @@ Documentación y planificación en curso.
 
 ## Hardware
 
-| Elemento | Modelo | Estado | Notas |
-|----------|--------|--------|-------|
-| Servidor principal | _Pendiente_ | No adquirido | Decisión en curso en chat de Hardware |
-| Router | Router Digi (ISP) | En producción | Sin control avanzado |
-| Switch | _Ninguno gestionable_ | — | A evaluar en fase 1-2 |
-| PC personal | [Tu PC] | Operativo | Usado para VMs temporales en fase 0 |
+Estado: host principal adquirido, pendiente de recepción.
+
+### Host principal — pve-node01
+
+- Equipo: Lenovo ThinkCentre M920q Tiny
+- CPU: Intel Core i5-9500T (6C/6T, 35W)
+- RAM: 16 GB DDR4 (ampliable a 64 GB)
+- Disco: 256 GB SSD
+- Red: 1× NIC Intel Gigabit
+- Estado: comprado en Ecoportátil, pendiente de recepción
+- Documentación: `hardware/hosts/pve-node01.md`
+- Decisión: `docs/architecture/decisions/0001-seleccion-host-virtualizacion.md`
+
+### Próximas acciones de hardware
+
+- [ ] Recepción y verificación física del equipo
+- [ ] Rellenar datos pendientes en pve-node01.md (S/N, MAC, BIOS)
+- [ ] Fase 2: ampliar RAM a 32 GB
+- [ ] Fase 2: añadir SSD SATA 2.5" para backups (posible adelanto por capacidad)
 
 ---
 
