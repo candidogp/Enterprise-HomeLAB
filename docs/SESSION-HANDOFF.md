@@ -27,9 +27,9 @@ instrucciones del Project, no hace falta pegarla.
 
 ## Estado de la sesión
 
-**Última actualización:** 2026-05-15
+**Última actualización:** 2026-05-16
 **Fase actual:** 0 — Preparación y fundamentos
-**Chat activo:** Roadmap global
+**Chat activo:** Linux
 
 ---
 
@@ -47,9 +47,11 @@ Descripción de lo que se está haciendo ahora mismo:
 
 El próximo paso a ejecutar cuando se retome el trabajo:
 
-> A la espera de recepción del equipo. En paralelo:
-> 1. Iniciar refresco de Linux en VM (abrir chat de Linux, pedir briefing).
-> 2. Reposicionar perfil de LinkedIn (chat de Documentación y portfolio).
+> Refresco de Linux en curso (chat de Linux). Siguiente paso: instalar
+> software de virtualización en el PC Windows y crear la primera VM Linux
+> para el refresco alineado con LPIC-1. LinkedIn: pendiente un retoque
+> rápido de headline esta semana (chat de Documentación y portfolio),
+> reescritura completa aplazada hasta tener material.
 
 ---
 
@@ -82,4 +84,5 @@ Registro breve de sesiones cerradas (más reciente arriba):
 
 | Fecha | Chat | Resumen |
 |-------|------|---------|
+| 2026-05-16 | Roadmap | Cierre de fase 0 en Roadmap: sistema de continuidad (SESSION-HANDOFF) en marcha, flujo de PR consolidado. Trabajo se traslada al chat de Linux. |
 | 2026-05-15 | Roadmap | Setup completo del repositorio: estructura, Git, SSH, ssh-agent, runbook de setup, protección de main, primer Issue. Decisión y documentación de hardware. |
