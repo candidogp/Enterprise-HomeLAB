@@ -70,6 +70,12 @@ Cualquier cosa que impida avanzar:
 
 ---
 
+## Tareas pendientes
+
+[] Documentar en docs/troubleshooting/ nota indicando que "Git: rama da  'not fully merged' tras Squash and merge"
+
+---
+
 ## Historial de sesiones
 
 Registro breve de sesiones cerradas (más reciente arriba):
